@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What up!! What's 'Markdown'?
 Use the left arrow to go back!
